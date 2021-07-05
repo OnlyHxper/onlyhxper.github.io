@@ -3,6 +3,7 @@ body {
 	text-align: center;
 	color: white;
 	background-color: black;
+
 }
 
 img {
@@ -10,15 +11,11 @@ img {
 	width: 75px;
 }
 
-a:link {
+a {
 	color: white;
 	text-decoration: none;
 }
 
 a:hover {
-	color: red;
-}
-
-a:visited {
-	color: white;
+	color: #FFE949;
 }
