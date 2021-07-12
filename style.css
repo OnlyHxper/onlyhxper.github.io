@@ -1,14 +1,13 @@
+@font-face {
+	font-family: 'Segoe UI Light';
+	src: url('/suil.ttf');
+  }
+
 body {
 	font-family: 'Segoe UI Light';
-	text-align: center;
 	color: white;
-	background-color: black;
-
-}
-
-img {
-	border-radius: 50%;
-	width: 75px;
+	background-color: #303030;
+	text-align: right;
 }
 
 a {
@@ -16,6 +15,10 @@ a {
 	text-decoration: none;
 }
 
+a:visited {
+	color: white;
+}
+
 a:hover {
-	color: #FFE949;
+	color: #E95378;
 }
